@@ -24,7 +24,7 @@ body {
 }
 .CenterMe {
 	background-color: blue;
-	color: #ebebeb;
+	color: #F90404;
 	font-family: 'Oswald', sans-serif;
 	font-size: 2rem;
 	text-transform: uppercase;
@@ -39,7 +39,7 @@ iframe {
 	margin: 0 auto;
 }
 h1 {
-	color: #ccc;
+	color:#000000;
 	text-align: center;
 }
 
